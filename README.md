@@ -19,8 +19,3 @@ python artifact/reproduce_paper_numbers.py \
 ```
 
 Output file: `artifact/reproduced_metrics.json`
-
-## Double-blind note
-- Personal/local identifiers are removed from included code paths.
-- The release process uses an explicit file manifest and automated anonymity scan.
-- Full end-to-end execution is intentionally not provided in this anonymous release. See `LIMITATIONS.md`.
